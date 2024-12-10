@@ -51,7 +51,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Lava-Kumar-PL/Phishing_url_detection.git
+   https://github.com/astronova001/Payment-URL-Phishing-Detection.git
    ```
 
 2. Change the directory:
@@ -83,8 +83,8 @@ The dataset used for training the models is sourced from Kaggle. It contains ove
 
 ## Result
 
-<img src="https://github.com/Lava-Kumar-PL/Phishing_url_detection/blob/main/results/phishingGIF.gif " width="400" />
+<img src="https://github.com/astronova001/Payment-URL-Phishing-Detection/blob/main/results/phishingGIF.gif " width="400" />
 
-<img src="https://github.com/Lava-Kumar-PL/Phishing_url_detection/blob/main/results/url.png " width="400" />
+<img src="https://github.com/astronova001/Payment-URL-Phishing-Detection/blob/main/results/url.png " width="400" />
 
-<img src="https://github.com/Lava-Kumar-PL/Phishing_url_detection/blob/main/results/prediction.png " width="400" />
+<img src="https://github.com/astronova001/Payment-URL-Phishing-Detection/blob/main/results/prediction.png " width="400" />
